@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning back-end development
 - 📫 How to reach me: www.linkedin.com/in/joao-meirinho
 <div align=center>
-<br><img src="https://img.shields.io/badge/-PHP-DE0079?style=flat&logo=php&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-HTML-DE00DE?style=flat&logo=html5&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-CSS-DE00DE?style=flat&logo=css3&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-JavaScript-DE0079?style=flat&logo=javascript&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-Node.js-DE00DE?style=flat&logo=node.js&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white heigth=30">
+<br><img src="https://img.shields.io/badge/-PHP-DE0079?style=flat&logo=php&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-HTML-DE00DE?style=flat&logo=html5&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-CSS-DE00DE?style=flat&logo=css3&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-JavaScript-DE0079?style=flat&logo=javascript&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-Node.js-DE00DE?style=flat&logo=node.js&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-C%23-DE0079?style=flat&logo=c-sharp&logoColor=white" height=30>
 </div>
 <div align=center>
  <br>
