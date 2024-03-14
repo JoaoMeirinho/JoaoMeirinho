@@ -7,7 +7,8 @@
 - 🧑‍🎓Studying Computer Cience (Joined in 2023 - Completion scheduled for 2026)
 - 📫 How to reach me: www.linkedin.com/in/joao-meirinho
 <div align=center>
-<br><img src="https://img.shields.io/badge/-PHP-DE0079?style=flat&logo=php&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-HTML-DE00DE?style=flat&logo=html5&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-CSS-DE00DE?style=flat&logo=css3&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-JavaScript-DE0079?style=flat&logo=javascript&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-Node.js-DE00DE?style=flat&logo=node.js&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-C%23-DE0079?style=flat&logo=c-sharp&logoColor=white" height=30>
+<br><img alt="Static Badge" src="https://img.shields.io/badge/-purple?style=flat&logo=dotnet&logoColor=%23ffffff&labelColor=%23512BD4&color=%23512BD4">
+ &nbsp;&nbsp; <img src="https://img.shields.io/badge/-HTML-DE00DE?style=flat&logo=html5&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-CSS-DE00DE?style=flat&logo=css3&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-JavaScript-DE0079?style=flat&logo=javascript&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-Node.js-DE00DE?style=flat&logo=node.js&logoColor=white" height=30> &nbsp;&nbsp; <img src="https://img.shields.io/badge/-C%23-DE0079?style=flat&logo=c-sharp&logoColor=white" height=30>
 </div>
 <div align=center>
  <br>
