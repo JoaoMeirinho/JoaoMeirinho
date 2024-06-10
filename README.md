@@ -1,5 +1,5 @@
 <h1 align=center>Hello there 👋, My name is <i>João Meirinho</i>!</h1>
-
+<p align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=34&pause=1000&color=390AF7&center=true&random=false&width=500&lines=Your+next+developer!" alt="Typing SVG" /></a></p>
 <p align=center>👾Back-End Development🤖</p>
 
 ## About me
@@ -9,6 +9,8 @@
 
 ## Description
 Computer Science student with solid Internet Computing skills and a passion for exploring and solving complex problems. Seeking challenging opportunities in different areas, willing to learn and contribute effectively to the team's success. With technical skills and theoretical knowledge, I am prepared to face new challenges and thrive in dynamic environments.
+
+
 
 ## Techs
 
@@ -22,7 +24,7 @@ Computer Science student with solid Internet Computing skills and a passion for 
 </div>
 <div align=center>
  <br>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoMeirinho&theme=shadow-purple" alt="GitHub Streak" /></a>
 <img height="194em" src="https://github-readme-stats.vercel.app/api?username=JoaoMeirinho&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
  <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=JoaoMeirinho&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
