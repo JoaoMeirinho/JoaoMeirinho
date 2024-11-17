@@ -16,7 +16,8 @@ Computer Science student with solid Internet Computing skills and a passion for 
 
 <div align=center>
 <br><img alt="Static Badge" src="https://img.shields.io/badge/Framework-purple?style=flat&logo=dotnet&logoColor=%23ffffff&labelColor=%23512BD4&color=%23512BD4" height=30>
- &nbsp;&nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/Language-purple?style=flat&logo=csharp&logoColor=%23ffffff&labelColor=%23512BD4&color=%23512BD4" height = 30>
+ &nbsp;&nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/C%23-Language-512BD4?style=flat&labelColor=512BD4" height=30>
+ &nbsp;&nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/Containers-purple?style=flat&logo=docker&logoColor=%23ffffff&labelColor=%23512BD4&color=%23512BD4" height=30>
  &nbsp;&nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/Database-purple?style=flat&logo=mysql&logoColor=%23ffffff&labelColor=%23512BD4&color=%23512BD4" height=30>
  &nbsp;&nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/Language-purple?style=flat&logo=javascript&logoColor=%23ffffff&labelColor=%23512BD4&color=%23512BD4" height=30>
  &nbsp;&nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/Runtime-purple?style=flat&logo=nodedotjs&logoColor=%23ffffff&labelColor=%23512BD4&color=%23512BD4" height=30>
