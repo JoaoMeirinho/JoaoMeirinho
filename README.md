@@ -13,7 +13,7 @@
 </p>
 
 ## About me
-- 🖥️ Currently developing with **PHP** and **Laravel**
+- 🖥️ Currently developing with **ASP.NET** and **Laravel**
 - ☁️ AWS Certified Cloud Practitioner
 - 🧑‍🎓 Computer Science — 8/8 semester
 - 🧑‍🎓 Systems Analysis and Development (ADS) — 4/6 semester
