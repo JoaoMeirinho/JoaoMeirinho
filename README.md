@@ -58,11 +58,43 @@ Computer Science student with solid experience in back-end and web development, 
 <img height="194em" src="https://github-stats-extended.vercel.app/api/top-langs/?hide_border=true&username=JoaoMeirinho&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-## Trophies
+## Featured Projects
 
 <div align=center>
 <br>
-<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=JoaoMeirinho&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Public Education Sentiment Analysis</h3>
+      <p align="center">
+        <i>Undergraduate Research (PIBICT-CEETEPS)</i><br>
+        NLP pipeline extracting public discourse from X (Twitter) on Brazilian education policies and classifying sentiment using fine-tuned <b>BERT</b>.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-512BD4?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Playwright-512BD4?style=flat&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP%20%2F%20BERT-390AF7?style=flat" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Mike On Mars</h3>
+      <p align="center">
+        <i>NASA Space Apps Challenge 2026</i><br>
+        Educational space-exploration and resource-management game developed collaboratively with team <b>Out-Of-Space-Exception</b> during the global hackathon.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Hackathon-NASA%20Space%20Apps-512BD4?style=flat" />
+        <img src="https://img.shields.io/badge/Game%20Dev-390AF7?style=flat" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Out-Of-Space-Exception/mike-on-mars"><b>View Repository →</b></a>
+      </p>
+      <p align="center">
+        <a href="https://out-of-space-exception.github.io/mike-on-mars/"><b>Play →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
 
 ## Contribution Graph
