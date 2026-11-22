@@ -15,6 +15,7 @@
 ## About me
 - 🖥️ Currently developing with **ASP.NET** and **Laravel**
 - ☁️ AWS Certified Cloud Practitioner
+- 🔍 Undergraduate Research Fellow (PIBICT-CEETEPS) at FATEC Sorocaba
 - 🧑‍🎓 Computer Science — 8/8 semester
 - 🧑‍🎓 Systems Analysis and Development (ADS) — 4/6 semester
 - 📫 How to reach me: [linkedin.com/in/joao-meirinho](https://www.linkedin.com/in/joao-meirinho)
